@@ -1,0 +1,15 @@
+/Users/aryanbagheri/Docs/cSharp/cSharp6/obj/Debug/net7.0/cSharp6.csproj.AssemblyReference.cache
+/Users/aryanbagheri/Docs/cSharp/cSharp6/obj/Debug/net7.0/cSharp6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aryanbagheri/Docs/cSharp/cSharp6/obj/Debug/net7.0/cSharp6.AssemblyInfoInputs.cache
+/Users/aryanbagheri/Docs/cSharp/cSharp6/obj/Debug/net7.0/cSharp6.AssemblyInfo.cs
+/Users/aryanbagheri/Docs/cSharp/cSharp6/obj/Debug/net7.0/cSharp6.csproj.CoreCompileInputs.cache
+/Users/aryanbagheri/Docs/cSharp/cSharp6/bin/Debug/net7.0/cSharp6
+/Users/aryanbagheri/Docs/cSharp/cSharp6/bin/Debug/net7.0/cSharp6.deps.json
+/Users/aryanbagheri/Docs/cSharp/cSharp6/bin/Debug/net7.0/cSharp6.runtimeconfig.json
+/Users/aryanbagheri/Docs/cSharp/cSharp6/bin/Debug/net7.0/cSharp6.dll
+/Users/aryanbagheri/Docs/cSharp/cSharp6/bin/Debug/net7.0/cSharp6.pdb
+/Users/aryanbagheri/Docs/cSharp/cSharp6/obj/Debug/net7.0/cSharp6.dll
+/Users/aryanbagheri/Docs/cSharp/cSharp6/obj/Debug/net7.0/refint/cSharp6.dll
+/Users/aryanbagheri/Docs/cSharp/cSharp6/obj/Debug/net7.0/cSharp6.pdb
+/Users/aryanbagheri/Docs/cSharp/cSharp6/obj/Debug/net7.0/cSharp6.genruntimeconfig.cache
+/Users/aryanbagheri/Docs/cSharp/cSharp6/obj/Debug/net7.0/ref/cSharp6.dll
